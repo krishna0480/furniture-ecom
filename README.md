@@ -1,3 +1,3 @@
 ﻿# furniture-ecom
-it is a ecommercve website and it is completely responsive , I created it using Bootstrap ,html and css
+it is my first Bootstrap ecommerce website, I created it using Bootstrap ,html and css
 
